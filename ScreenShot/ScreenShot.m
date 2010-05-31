@@ -1,8 +1,8 @@
 //
 //  Screenshot.h
 //
+//  This code is adapted from the work of Michael Nachbaur 
 //  Created by Simon Madine on 29/04/2010.
-//  Copyright 2010 The Angry Robot Zombie Factory.
 //  MIT licensed
 //
 
