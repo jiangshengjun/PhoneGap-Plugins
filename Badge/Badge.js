@@ -1,6 +1,5 @@
 /*
- *  This code is adapted from the work of Michael Nachbaur 
- *  by Simon Madine of The Angry Robot Zombie Factory
+ *  Simon Madine of The Angry Robot Zombie Factory
  *  2010-05-04
  *  MIT licensed
 */
